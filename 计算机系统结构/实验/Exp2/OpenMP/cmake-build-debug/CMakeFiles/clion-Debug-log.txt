@@ -1,0 +1,1 @@
+D:\JetBrains\apps\CLion\ch-0\231.8109.222\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/JetBrains/apps/CLion/ch-0/231.8109.222/bin/ninja/win/x64/ninja.exe -G Ninja -S E:\CES\计算机系统结构\实验\Exp2\OpenMP -B E:\CES\计算机系统结构\实验\Exp2\OpenMP\cmake-build-debug
