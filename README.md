@@ -4,89 +4,7 @@
 
 The contents in this repository are e-books, review notes and materials for courses in School of Computer Engineering and Science, Shanghai University. 
 
-## 2. Course Selection
-
-The following reviews are based on a large number of CES' students evaluation surveys and **can not reflect the actual situation**, and are for informational purposes only. 
-
-The evaluation is out of 5 points. **The higher the score, the better.**
-
-### 2.1 Object Oriented Programs
-
-|  Profeesor   | Score | Teaching Level | Task Amount | Summary |
-| :----------: | :---: | :------------: | :---------: | :-----: |
-|  **X Wei**   |   5   |       4        |      5      |    5    |
-|  **JZ Dai**  |   4   |       4        |     4.5     |    4    |
-| **JJ Zhao**  |   4   |       5        |      4      |   4.5   |
-|  **B Song**  |   3   |       4        |     3.5     |   3.5   |
-| **SB Chen**  |   5   |      3.5       |      5      |   4.5   |
-| **JQ Zhang** |  3.5  |       5        |      4      |    4    |
-| **HC Lian**  | None  |      None      |    None     |  None   |
-
-### 2.2 Digital Logic
-
-|  Profeesor   | Score | Teaching Level | Task Amount | Summary |
-| :----------: | :---: | :------------: | :---------: | :-----: |
-| **YH Zhang** |   4   |      3.5       |      5      |    4    |
-| **JJ Peng**  |   5   |       4        |      5      |    5    |
-|   **B He**   |   5   |       4        |      5      |    5    |
-|  **ZX Fei**  |   3   |       2        |      3      |    3    |
-|  **XL Zhi**  |  3.5  |      3.5       |      4      |    4    |
-|   **J Yu**   |   4   |       5        |      5      |    5    |
-
-### 2.3 Digital Logic / The Principle of Computer Organization Experiment
-
-|  Profeesor   | Score |  Teaching Level   | Task Amount | Summary |
-| :----------: | :---: | :---------------: | :---------: | :-----: |
-| **S Ouyang** |   5   | It's meaningless. |      4      |    5    |
-|  **YJ Liu**  |   4   | It's meaningless. |     4.5     |   4.5   |
-|  **CF Li**   |   2   | It's meaningless. |      5      |    3    |
-|  **HC Gu**   |   2   | It's meaningless. |      3      |    2    |
-|  **XM Liu**  |   3   | It's meaningless. |      3      |    3    |
-
-### 2.4 Discrete Mathematics
-
-|  Profeesor  | Score | Teaching Level | Task Amount | Summary |
-| :---------: | :---: | :------------: | :---------: | :-----: |
-| **WB Feng** |   5   |       5        |      5      |    5    |
-|  **P Wu**   |  3.5  |      4.5       |      4      |    4    |
-| **DB Dai**  |  4.5  |      4.5       |      5      |   4.5   |
-|  **J Xie**  |   3   |      4.5       |      4      |    4    |
-| **ZH Niu**  |   4   |      4.5       |      5      |   4.5   |
-| **B Sheng** |   4   |      3.5       |      5      |    4    |
-
-### 2.5 Data Structure
-
-|  Profeesor   | Score | Teaching Level | Task Amount | Summary |
-| :----------: | :---: | :------------: | :---------: | :-----: |
-| **JQ Zhang** |  3.5  |       5        |      4      |    4    |
-|  **QG Xu**   |   4   |      3.5       |      5      |    4    |
-| **ZM Teng**  |   5   |       4        |      5      |    5    |
-|  **PP Zhu**  |  4.5  |       4        |      5      |    5    |
-| **Y Zheng**  |  4.5  |       5        |      4      |    5    |
-| **J Sheng**  |   4   |      3.5       |      4      |    4    |
-|  **NJ Zhu**  |  4.5  |       5        |      5      |    5    |
-
-### 2.6 The Principle of Computer Organization
-
-|  Profeesor  | Score | Teaching Level | Task Amount | Summary |
-| :---------: | :---: | :------------: | :---------: | :-----: |
-|  **LY Xu**  |   4   |       2        |     4.5     |   3.5   |
-| **FF Liu**  |   4   |       3        |      5      |    4    |
-| **WW Chen** |   5   |       5        |      5      |    5    |
-| **XF Luo**  |  3.5  |      2.5       |     4.5     |   3.5   |
-|  **J Yu**   |   5   |       5        |      4      |    5    |
-| **X Wang**  |   3   |      4.5       |      3      |   3.5   |
-| **SY Duan** |  4.5  |       5        |      4      |   4.5   |
-
-### 2.7 The Principle of Computer Organization and Architecture
-
-|  Profeesor  | Score | Teaching Level | Task Amount | Summary |
-| :---------: | :---: | :------------: | :---------: | :-----: |
-| **XL Zhi**  |  3.5  |       4        |      4      |    4    |
-|  **G Liu**  |   4   |       4        |     4.5     |   4.5   |
-| **SY Duan** |   4   |       5        |      5      |    5    |
-
-## 3. Course Review
+## 2. Course Review
 
 Although some teachers presented the latest exam papers at the end of the course, due to protection necessity and prudent considerations, some part of the information could not be made public.
 
@@ -122,7 +40,7 @@ However, I could **give some of the professor's initials due to his/her valuable
 |            Design and Analysis of Algorithms            |                  Li & **Xu**                   |
 |                      Combinatorics                      |                    **Leng**                    |
 
-## 4. Admonitions and Expectations
+## 3. Admonitions and Expectations
 
 In terms of personal experience, due to SHU's three-semester academic system and the setting of CES's curriculum, students can get a high score of 90+ in most of the professional courses easily through the pre-exam assault.
 
