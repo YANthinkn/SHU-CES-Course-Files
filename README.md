@@ -8,7 +8,7 @@ The contents in this repository are e-books, review notes and materials for cour
 
 The following reviews are based on a large number of CES' students evaluation surveys and **can not reflect the actual situation**, and are for informational purposes only. 
 
-The evaluation is out of 5 points. **The higher the score, the better.**
+**The evaluation is out of 5 points. The higher the score, the better.**
 
 ### 2.1 Object Oriented Programs
 
@@ -86,6 +86,60 @@ The evaluation is out of 5 points. **The higher the score, the better.**
 |  **G Liu**  |   4   |       4        |     4.5     |   4.5   |
 | **SY Duan** |   4   |       5        |      5      |    5    |
 
+### 2.8 Computer Network
+
+|  Profeesor   | Score | Teaching Level | Task Amount | Summary |
+| :----------: | :---: | :------------: | :---------: | :-----: |
+|  **Q Qian**  |  4.5  |       5        |      4      |   4.5   |
+| **R Zhang**  |   4   |      4.5       |      4      |    4    |
+|   **B He**   |   5   |      4.5       |      5      |    5    |
+|  **T Liu**   |   5   |       5        |      5      |    5    |
+| **YH Zhang** |  3.5  |      3.5       |      5      |   3.5   |
+|  **CH Cao**  |   5   |       5        |      5      |    5    |
+
+### 2.9 Operating System
+
+|  Profeesor  | Score | Teaching Level | Task Amount | Summary |
+| :---------: | :---: | :------------: | :---------: | :-----: |
+| **FY Liu**  |   4   |       ?        |      5      |    4    |
+| **YC Fang** |   5   |       4        |      3      |    4    |
+| **QC Chen** |  4.5  |       5        |     4.5     |   4.5   |
+| **FF Liu**  |  4.5  |      3.5       |     4.5     |    4    |
+| **XZ Wang** |  4.5  |       4        |     4.5     |   4.5   |
+
+### 2.10 Computer Architecture
+
+|  Profeesor  | Score | Teaching Level | Task Amount | Summary |
+| :---------: | :---: | :------------: | :---------: | :-----: |
+| **XL Zhi**  |   3   |      4.5       |     4.5     |    4    |
+| **FF Liu**  |  4.5  |       4        |      5      |   4.5   |
+| **X Chen**  |   4   |       4        |     4.5     |    4    |
+|  **G Liu**  |  3.5  |       4        |     3.5     |    4    |
+| **WF Shen** |   3   |      3.5       |      5      |   3.5   |
+| **YM Lei**  |  3.5  |      4.5       |      5      |    4    |
+
+### 2.11 Intelligent System Control
+
+| Profeesor  | Score | Teaching Level | Task Amount | Summary |
+| :--------: | :---: | :------------: | :---------: | :-----: |
+| **SR Xie** |  4.5  |      4.5       |      5      |   4.5   |
+| **LM Xin** |   5   |       5        |      5      |    5    |
+| **N Liu**  |  4.5  |      4.5       |      5      |   4.5   |
+
+### 2.12 Operations and Optimization
+
+| Profeesor | Score | Teaching Level | Task Amount | Summary |
+| :-------: | :---: | :------------: | :---------: | :-----: |
+| **LY Ma** |  4.5  |       5        |      5      |    5    |
+| **Y Sun** |   5   |      4.5       |      5      |    5    |
+
+### 2.13 Artificial Intelligence and Cognition Science
+
+|  Profeesor   | Score | Teaching Level | Task Amount | Summary |
+| :----------: | :---: | :------------: | :---------: | :-----: |
+| **HR Zhang** |   4   |      4.5       |     4.5     |    4    |
+|  **H Wang**  |  4.5  |      4.5       |     4.5     |   4.5   |
+
 ## 3. Course Review
 
 Although some teachers presented the latest exam papers at the end of the course, due to protection necessity and prudent considerations, some part of the information could not be made public.
@@ -96,31 +150,31 @@ However, I could **give some of the professor's initials due to his/her valuable
 
 1. **This table only includes courses that require exams and have parallel classes** (i.e. two or more teachers per course).
 2. **Review classes may be more valuable than the previous exam papers.**
-3. the teachers **whose names are bolded can provide useful information about the exam in the review session**, while the teachers whose names are not bolded can provide some information, and the teachers **who are not mentioned can provide almost no information**.
+3. The teachers **whose names are bolded can provide useful information about the exam in the review session**, while the teachers whose names are not bolded can provide some information, and the teachers **who are not mentioned can provide almost no information**.
 4. Due to the rapid turnover of teachers in the college, **the information in this table is current for the 2023-2024 academic year**.
 
-|                         Course                          |                   Professor                    |
-| :-----------------------------------------------------: | :--------------------------------------------: |
-|                Object Oriented Programs                 |                  Zhao & Chen                   |
-|                      Digital Logic                      |                  **Zhi** & He                  |
-|                  Discrete Mathematics                   |              **Feng & Dai &Niu**               |
-|                     Data Structure                      |                **Zhu** & Zheng                 |
-|         The Principle of Computer Organization          |         **Liu & Chen (Not All Truth)**         |
-|                    Computer Network                     |  Zhang (Female) & Liu & **Zhang (Male)** & He  |
-|                    Operating System                     |    **Liu (Male)** & Liu (Female) & **Wang**    |
-|             Principles of Database Systems              |             Zheng (Maybe A Little)             |
-|                  Software Engineering                   |                    **Chen**                    |
-|                   Compiler Principle                    |                 **Liu** & Shen                 |
-|                  Computer Architecture                  | **Zhi** & Liu (Female) & **Chen** & Liu (Male) |
-| The Principle of Computer Organization and Architecture |                 **Zhi & Liu**                  |
-|                     Matrix Analysis                     |                       \                        |
-|                   Information Theory                    |                    **Yang**                    |
-|               Intelligent System Control                |                       \                        |
-|               Operations and Optimization               |                       \                        |
-|      Artificial Intelligence and Cognition Science      |                    **Wang**                    |
-|                Digital Image Processing                 |                       \                        |
-|            Design and Analysis of Algorithms            |                  Li & **Xu**                   |
-|                      Combinatorics                      |                    **Leng**                    |
+|                           Course                            |                   Professor                    |
+| :---------------------------------------------------------: | :--------------------------------------------: |
+|                **Object Oriented Programs**                 |                  Zhao & Chen                   |
+|                      **Digital Logic**                      |                  **Zhi** & He                  |
+|                  **Discrete Mathematics**                   |              **Feng & Dai &Niu**               |
+|                     **Data Structure**                      |                **Zhu** & Zheng                 |
+|         **The Principle of Computer Organization**          |         **Liu & Chen (Not All Truth)**         |
+|                    **Computer Network**                     |  Zhang (Female) & Liu & **Zhang (Male)** & He  |
+|                    **Operating System**                     |    **Liu (Male)** & Liu (Female) & **Wang**    |
+|             **Principles of Database Systems**              |             Zheng (Maybe A Little)             |
+|                  **Software Engineering**                   |                    **Chen**                    |
+|                   **Compiler Principle**                    |                 **Liu** & Shen                 |
+|                  **Computer Architecture**                  | **Zhi** & Liu (Female) & **Chen** & Liu (Male) |
+| **The Principle of Computer Organization and Architecture** |                 **Zhi & Liu**                  |
+|                     **Matrix Analysis**                     |                       \                        |
+|                   **Information Theory**                    |                    **Yang**                    |
+|               **Intelligent System Control**                |                       \                        |
+|               **Operations and Optimization**               |                       \                        |
+|      **Artificial Intelligence and Cognition Science**      |                    **Wang**                    |
+|                **Digital Image Processing**                 |                       \                        |
+|            **Design and Analysis of Algorithms**            |                  Li & **Xu**                   |
+|                      **Combinatorics**                      |                    **Leng**                    |
 
 ## 4. Admonitions and Expectations
 
