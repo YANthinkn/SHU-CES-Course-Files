@@ -1,4 +1,4 @@
-# SHU-CES-Course-Files
+**# SHU-CES-Course-Files
 
 ## 1. Introduction
 
@@ -80,11 +80,13 @@ The following reviews are based on a large number of CES' students evaluation su
 
 ### 2.7 The Principle of Computer Organization and Architecture
 
-|  Profeesor  | Score | Teaching Level | Task Amount | Summary |
-| :---------: | :---: | :------------: | :---------: | :-----: |
-| **XL Zhi**  |  3.5  |       4        |      4      |    4    |
-|  **G Liu**  |   4   |       4        |     4.5     |   4.5   |
-| **SY Duan** |   4   |       5        |      5      |    5    |
+|  Profeesor  | Score | Teaching Level | Task Amount |       Summary        |
+| :---------: | :---: | :------------: | :---------: | :------------------: |
+| **XL Zhi**  |  3.5  |       4        |      4      |          4           |
+|  **G Liu**  |   4   |       4        |     4.5     |         4.5          |
+| **SY Duan** |   4   |       5        |      5      |          5           |
+| **YG Cui**  | None  |      None      |    None     | I believe he is good |
+| **ZX Fei**  | None  |      None      |    None     |         None         |
 
 ### 2.8 Computer Network
 
@@ -182,4 +184,4 @@ In terms of personal experience, due to SHU's three-semester academic system and
 
 Therefore, I hope you, younger students will spend most of your time on self-study, instead of wasting your time in the inter-involution of meaningless class content.
 
-The last thing I want to say is that there is no use complaining. Just Do it.
+The last thing I want to say is that there is no use complaining. Just Do it.**
