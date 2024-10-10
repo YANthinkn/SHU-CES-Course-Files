@@ -1,4 +1,4 @@
-**# SHU-CES-Course-Files
+# SHU-CES-Course-Files
 
 ## 1. Introduction
 
@@ -109,18 +109,40 @@ The following reviews are based on a large number of CES' students evaluation su
 | **FF Liu**  |  4.5  |      3.5       |     4.5     |    4    |
 | **XZ Wang** |  4.5  |       4        |     4.5     |   4.5   |
 
-### 2.10 Computer Architecture
+### 2.10 Principles of Database Systems
+
+|     Profeesor      | Score | Teaching Level | Task Amount | Summary |
+| :----------------: | :---: | :------------: | :---------: | :-----: |
+|    **Y Zheng**     |       |                |             |         |
+|     **WM Li**      |       |                |             |         |
+|     **XQ Li**      |       |                |             |         |
+|    **AP Song**     |       |                |             |         |
+|  **Y Liu (Male)**  |       |                |             |         |
+| **Y Liu (Female)** |       |                |             |         |
+
+### 2.11 Compiler Principle
 
 |  Profeesor  | Score | Teaching Level | Task Amount | Summary |
 | :---------: | :---: | :------------: | :---------: | :-----: |
-| **XL Zhi**  |   3   |      4.5       |     4.5     |    4    |
-| **FF Liu**  |  4.5  |       4        |      5      |   4.5   |
-| **X Chen**  |   4   |       4        |     4.5     |    4    |
-|  **G Liu**  |  3.5  |       4        |     3.5     |    4    |
-| **WF Shen** |   3   |      3.5       |      5      |   3.5   |
-| **YM Lei**  |  3.5  |      4.5       |      5      |    4    |
+| **FY Liu**  |       |                |             |         |
+| **X Dong**  |       |                |             |         |
+| **ZM Teng** |       |                |             |         |
+| **J Shen**  |       |                |             |         |
+|  **X Wei**  |       |                |             |         |
+| **PZ Tian** |       |                |             |         |
 
-### 2.11 Intelligent System Control
+### 2.12 Computer Architecture
+
+|  Profeesor  | Score | Teaching Level | Task Amount | Summary |
+| :---------: | :---: | :------------: | :---------: | :-----: |
+| **XL Zhi**  |       |                |             |         |
+| **FF Liu**  |       |                |             |         |
+| **X Chen**  |       |                |             |         |
+|  **G Liu**  |       |                |             |         |
+| **WF Shen** |       |                |             |         |
+| **YM Lei**  |       |                |             |         |
+
+### 2.13 Intelligent System Control
 
 | Profeesor  | Score | Teaching Level | Task Amount | Summary |
 | :--------: | :---: | :------------: | :---------: | :-----: |
@@ -128,19 +150,33 @@ The following reviews are based on a large number of CES' students evaluation su
 | **LM Xin** |   5   |       5        |      5      |    5    |
 | **N Liu**  |  4.5  |      4.5       |      5      |   4.5   |
 
-### 2.12 Operations and Optimization
+### 2.14 Operations and Optimization
 
 | Profeesor | Score | Teaching Level | Task Amount | Summary |
 | :-------: | :---: | :------------: | :---------: | :-----: |
 | **LY Ma** |  4.5  |       5        |      5      |    5    |
 | **Y Sun** |   5   |      4.5       |      5      |    5    |
 
-### 2.13 Artificial Intelligence and Cognition Science
+### 2.15 Artificial Intelligence and Cognition Science
 
 |  Profeesor   | Score | Teaching Level | Task Amount | Summary |
 | :----------: | :---: | :------------: | :---------: | :-----: |
 | **HR Zhang** |   4   |      4.5       |     4.5     |    4    |
 |  **H Wang**  |  4.5  |      4.5       |     4.5     |   4.5   |
+
+### 2.16 Probability and Statistics A
+
+|  Profeesor   | Score | Teaching Level | Summary |
+| :----------: | :---: | :------------: | :-----: |
+|  **XF Mao**  |   4   |      4.5       |   4.5   |
+| **JF Dong**  |   4   |       4        |    4    |
+|  **HP Hu**   |   4   |       4        |    4    |
+| **HJ Zhang** |   5   |       5        |    5    |
+|  **XM Ju**   |   5   |      4.5       |    5    |
+| **XH Tong**  |  3.5  |      3.5       |   3.5   |
+| **FF Yang**  |   4   |       4        |    4    |
+|  **QX Xie**  |  4.5  |      4.5       |   4.5   |
+| **D Xiong**  |  3.5  |       4        |    4    |
 
 ## 3. Course Review
 
@@ -184,4 +220,4 @@ In terms of personal experience, due to SHU's three-semester academic system and
 
 Therefore, I hope you, younger students will spend most of your time on self-study, instead of wasting your time in the inter-involution of meaningless class content.
 
-The last thing I want to say is that there is no use complaining. Just Do it.**
+The last thing I want to say is that there is no use complaining. Just Do it.
