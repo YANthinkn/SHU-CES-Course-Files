@@ -10,6 +10,8 @@ The following reviews are based on a large number of CES' students evaluation su
 
 **The evaluation is out of 5 points. The higher the score, the better.**
 
+**Meanwhile, I'm now preparing for the website, which can visually show the 4.0 percentage data and other information you may need. If you are intersted in it, please just contact me.**
+
 ### 2.1 Object Oriented Programs
 
 |  Profeesor   | Score | Teaching Level | Task Amount | Summary |
@@ -104,10 +106,10 @@ The following reviews are based on a large number of CES' students evaluation su
 |  Profeesor  | Score | Teaching Level | Task Amount | Summary |
 | :---------: | :---: | :------------: | :---------: | :-----: |
 | **FY Liu**  |   4   |       ?        |      5      |    4    |
-| **YC Fang** |   5   |       4        |      3      |    4    |
+| **YC Fang** |   5   |      4.5       |      3      |    4    |
 | **QC Chen** |  4.5  |       5        |     4.5     |   4.5   |
-| **FF Liu**  |  4.5  |      3.5       |     4.5     |    4    |
-| **XZ Wang** |  4.5  |       4        |     4.5     |   4.5   |
+| **FF Liu**  |  4.5  |       4        |     4.5     |   4.5   |
+| **XZ Wang** |  4.5  |       5        |     4.5     |    5    |
 
 ### 2.10 Principles of Database Systems
 
