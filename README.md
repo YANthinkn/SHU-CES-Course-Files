@@ -93,10 +93,10 @@ The following reviews are based on a large number of CES' students evaluation su
 |  Profeesor   | Score | Teaching Level | Task Amount | Summary |
 | :----------: | :---: | :------------: | :---------: | :-----: |
 |  **Q Qian**  |  4.5  |       5        |      4      |   4.5   |
-| **R Zhang**  |   4   |      4.5       |      4      |    4    |
+| **R Zhang**  |   4   |      4.5       |      4      |   4.5   |
 |   **B He**   |   5   |      4.5       |      5      |    5    |
 |  **T Liu**   |   5   |       5        |      5      |    5    |
-| **YH Zhang** |  3.5  |      3.5       |      5      |   3.5   |
+| **YH Zhang** |   4   |       4        |      5      |   4.5   |
 |  **CH Cao**  |   5   |       5        |      5      |    5    |
 
 ### 2.9 Operating System
