@@ -1,5 +1,10 @@
 # SHU-CES-Course-Files
 
+**写在一切之前：**
+
+- 因为一些**不可抗力因素**，评论部分只能删除
+- 希望一些人不要再像跳梁小丑🤡，去自己喜欢的垃圾平台，发一些东西试图抹黑我或者我曾经的朋友，这样做很无聊呃呃
+
 ## 1. Introduction
 
 The contents in this repository are e-books, review notes and materials for courses in School of Computer Engineering and Science, Shanghai University. 
